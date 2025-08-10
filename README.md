@@ -30,10 +30,10 @@ The project uses **MongoDB** as the database and **EJS** for rendering views.
 ```
     pr-4-book-CRUD/
     │── index.js                  # Main server entry point
-   ├── config/
+    ├── config/
     ├── controllers/
     ├── models/
-   ├── views/                     # EJS templates
+    ├── views/                     # EJS templates
     └── node_modules/              # Dependencies
 ```
 
