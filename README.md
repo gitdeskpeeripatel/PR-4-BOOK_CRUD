@@ -37,16 +37,6 @@ The project uses **MongoDB** as the database and **EJS** for rendering views.
     └── node_modules/              # Dependencies
 ```
 
----
-
-### 3️⃣ Set up environment variables
-Create a `.env` file in the root:
-```env
-MONGO_URI=mongodb://localhost:27017/bookdb
-PORT=5506
-```
-
-
 
 ### 5️⃣ Open in browser
 ```
